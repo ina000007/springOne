@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+h2,form div {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: lightblue;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.midContent {
+    border: 2px solid black;
+    outline: #4CAF50 solid 10px;
+    margin: 16px;    
+    height: 66%;
+}
+
+img {
+    border: .5px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    width: 150px;
+    height: 125px;
+}
+
+img:hover {
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 16, 5);
+}
+.wrap{
+	word-wrap: break-word;
+}
